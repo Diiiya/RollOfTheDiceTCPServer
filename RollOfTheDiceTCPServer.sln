@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollOfTheDiceTCPServer", "RollOfTheDiceTCPServer\RollOfTheDiceTCPServer.csproj", "{11CF750C-1679-4F5F-9AC1-EF6073CB742A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11CF750C-1679-4F5F-9AC1-EF6073CB742A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CF750C-1679-4F5F-9AC1-EF6073CB742A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CF750C-1679-4F5F-9AC1-EF6073CB742A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CF750C-1679-4F5F-9AC1-EF6073CB742A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33DFAC0-5F10-422B-97AF-A50A238589A5}
+	EndGlobalSection
+EndGlobal
